@@ -1,3 +1,3 @@
-# Chax —— 一个 Vue UI 组件库
+# Chax-wheel —— 一个 React UI 组件库
 
 作者：Eddie Ma
